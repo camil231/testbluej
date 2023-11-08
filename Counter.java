@@ -5,7 +5,7 @@ public class Counter {
     public static void main() {
         JFrame frame = new JFrame("Counter");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+        //bla
         JPanel panel = new JPanel();
 
         JLabel counterLabel = new JLabel("0");
